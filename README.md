@@ -15,3 +15,10 @@ The program takes the speed of a car as input. If the speed is less than 70 km/h
 
 # Net Salary Calculator.
 This program calculates an individual's net salary based on inputs of basic salary and benefits. It calculates the payee (tax). NHIF deduction, NSSF deduction, gross salary and net salary.
+
+# Getting Started
+
+If you haven't already, fork and clone this lab into your local environment.
+Remember to **fork** a copy into your GitHub account first, then **clone** from
+that copy. Navigate into its directory in the terminal, then run `code .` to
+open the files in Visual Studio Code.
