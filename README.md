@@ -1,4 +1,4 @@
-// Toy Problem Solutions.
+# CODE CHALLENGE.
 
 The repository contains solutions to three toy problems: Student Grade Generator, Speed Detector, and Net Salary Calculator.
 
